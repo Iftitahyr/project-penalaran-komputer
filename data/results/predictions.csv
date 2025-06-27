@@ -1,0 +1,6 @@
+query_id,actual_solution,pred_majority,pred_weighted,top_5_case_ids
+Q115,ditahan,ditahan,ditahan,"case_103, case_271, case_107, case_072, case_189"
+Q302,ditahan,ditahan,ditahan,"case_129, case_124, case_050, case_013, case_279"
+Q289,ditahan,ditahan,ditahan,"case_236, case_288, case_067, case_217, case_235"
+Q199,hukuman_mati,ditahan,ditahan,"case_194, case_005, case_142, case_163, case_042"
+Q64,ditahan,ditahan,ditahan,"case_052, case_217, case_067, case_179, case_042"

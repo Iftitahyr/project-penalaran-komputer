@@ -1,0 +1,4 @@
+Model,Accuracy
+TF-IDF Majority Vote,80.0
+TF-IDF Weighted Similarity,80.0
+IndoBERT + Cosine Similarity,80.0

@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "Q115",
+    "query_text": "",
+    "top_5_case_ids": [
+      "case_103",
+      "case_271",
+      "case_107",
+      "case_072",
+      "case_189"
+    ],
+    "ground_truth": "case_115"
+  },
+  {
+    "query_id": "Q302",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia",
+    "top_5_case_ids": [
+      "case_129",
+      "case_124",
+      "case_050",
+      "case_013",
+      "case_279"
+    ],
+    "ground_truth": "case_302"
+  },
+  {
+    "query_id": "Q289",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia",
+    "top_5_case_ids": [
+      "case_236",
+      "case_288",
+      "case_067",
+      "case_217",
+      "case_235"
+    ],
+    "ground_truth": "case_289"
+  },
+  {
+    "query_id": "Q199",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia",
+    "top_5_case_ids": [
+      "case_194",
+      "case_005",
+      "case_142",
+      "case_163",
+      "case_042"
+    ],
+    "ground_truth": "case_199"
+  },
+  {
+    "query_id": "Q64",
+    "query_text": "Direktori Putusan Mahkamah Agung Republik Indonesia\nputusan.mahkamahagung.go.id\n\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia\nMahkamah Agung Republik Indonesia",
+    "top_5_case_ids": [
+      "case_052",
+      "case_217",
+      "case_067",
+      "case_179",
+      "case_042"
+    ],
+    "ground_truth": "case_064"
+  }
+]
